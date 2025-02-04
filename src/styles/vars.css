@@ -11,6 +11,10 @@
     --grid-gap: 24px;
     --column-count: 5;
   
+    /* Thumb
+     */
+
+     --thumb:rgba(255, 255, 255, 0.148);
     /* Colors Cards */
     --card1: rgb(0, 100, 80);
     --card2: rgb(132, 0, 231);

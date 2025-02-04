@@ -142,9 +142,8 @@
 
 /* Thumb */
 .offer__scroll-container::-webkit-scrollbar-thumb {
-  background-color: transparent;
+  background-color: var(--thumb);
 }
-/* FIM SCROLL */
 
 .offer__list-item {
   display: grid; /* define o modelo de layout do elemento como uma grade */
